@@ -2,6 +2,33 @@
 
 A simple Python script to optimize images by converting them to WebP format, Autometically update them into HTML & CSS and also minifying CSS files.
 
+## How To Setup
+
+
+1. Clone the repository to your local machine:
+    ```
+    git clone https://github.com/your-username/webpage_optimizer.git
+    ```
+
+2. Navigate to the project directory:
+    ```
+    cd webpage_optimizer
+    ```
+
+3. Install the required dependencies:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+4. Run the script:
+
+    ```
+    python optimize_images.py
+    ```
+
+    The script will prompt you to select the directory containing the images to be optimized.
+
 ## Usage
 
 Run the script in your terminal/command prompt. The script will ask you to select the directory containing the images to be optimized. Once the directory is selected, the script will create a new directory with the suffix `_output` containing the optimized images.
