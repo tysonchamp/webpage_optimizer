@@ -33,6 +33,8 @@ A simple Python script to optimize images by converting them to WebP format, Aut
 
 Run the script in your terminal/command prompt. The script will ask you to select the directory containing the images to be optimized. Once the directory is selected, the script will create a new directory with the suffix `_output` containing the optimized images.
 
+**Note:** If you're not familier with commandline or python so much then there are two executable files available for this script as well. `GUIOptimizer` is for Linux users and `GUIOptimizer.exe` is for Windows users. Make sure to run the correct file for your operating system.
+
 ## Features
 
 The script optimizes images by:
