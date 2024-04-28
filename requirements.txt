@@ -1,0 +1,4 @@
+Pillow
+tqdm
+csscompressor
+beautifulsoup4
